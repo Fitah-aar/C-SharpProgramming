@@ -49,7 +49,6 @@ assignments, and concept summaries for the C# Programming course using Visual St
 * **Key Statements:** 
    **Display message => MessageBox.Show("Hello World"); 
    **Close Form => this.Close();.
-
    **Naming Rules => identifer names must start with a later or underscore and cannot conain space
 
 
