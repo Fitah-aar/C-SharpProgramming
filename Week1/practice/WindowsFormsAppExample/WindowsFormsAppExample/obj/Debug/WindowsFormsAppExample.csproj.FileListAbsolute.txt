@@ -1,0 +1,11 @@
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\bin\Debug\WindowsFormsAppExample.exe.config
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\bin\Debug\WindowsFormsAppExample.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\bin\Debug\WindowsFormsAppExample.pdb
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.Form1.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.pdb
+C:\Users\AARKA\Downloads\C#\WindowsFormsAppExample\WindowsFormsAppExample\obj\Debug\WindowsFormsAppExample.exe.config
