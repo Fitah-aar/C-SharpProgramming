@@ -39,9 +39,18 @@ assignments, and concept summaries for the C# Programming course using Visual St
 
 * **Objects and Classes:** An object is a program component containing data (properties) and operations (methods). A class is the blueprint for an object.
 * **Controls & GUI:** Visible UI elements like Button, Label, and TextBox are controls defined by .NET classes.
-* **Visual Studio IDE Windows:** Designer, Solution Explorer, Properties Window, and Toolbox.
+* **Visual Studio IDE Windows:** 
+    **Designer=>Used to visual design the application user interface,
+    **Solution Explorer=> Display Projects and files associated with solutin,
+    **Properties Window => Used to view and changes an objects apperance and behavier, 
+    **Toolbox => Contains availabe controls to drag and drop.
+    
 * **Event-Driven Programming:** GUI applications execute event handlers when users interact with controls.
-* **Key Statements:** `MessageBox.Show("Hello World"); and this.Close();.
+* **Key Statements:** 
+   **Display message => MessageBox.Show("Hello World"); 
+   **Close Form => this.Close();.
+
+**Naming Rules => identifer names must start with a later or underscore and cannot conain space
 
 
 
