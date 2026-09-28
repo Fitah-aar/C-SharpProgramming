@@ -1,5 +1,5 @@
 # Chapter 2: Processing Data
-### (*Starting Out with Visual C#, Sixth Edition*)
+### (*Starting Out with Visual C#*)
 
 This documentation covers the core concepts of Chapter 2, including reading input from `TextBox` controls, declaring variables, performing mathematical calculations, parsing data types, handling exceptions, working with GUI features, and using Visual Studio debugging tools.
 
@@ -50,3 +50,15 @@ A `TextBox` is a rectangular control on a form that allows the user to enter inf
 textBox1.Clear();                   // Preferred method
 textBox1.Text = string.Empty;       // Alternative 1
 textBox1.Text = "";                 // Alternative 2
+
+
+
+## 2.2 A First Look at Variables
+### Concept Variable
+A `Variable` is a stroage location in meamory used a hold data
+
+* **Variable Syntex**
+
+* Data_ Type * Variable Name= *Value
+
+
