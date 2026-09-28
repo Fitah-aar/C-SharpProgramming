@@ -53,6 +53,8 @@ textBox1.Text = "";                 // Alternative 2
 
 
 
+---
+
 ## 2.2 A First Look at Variables
 ### Concept Variable
 A `Variable` is a stroage location in meamory used a hold data
