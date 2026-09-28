@@ -6,4 +6,5 @@
 ​**Local Variables:** Declaring temporary string variables scoped within specific event handler methods.
 
 ​**String Concatenation:** Merging multiple strings using the + operator.
-​UI State Reset: Faaruqinta kontaroolada foomka iyadoo la isticmaalayo .Clear() ama string.Empty / "".
+
+​**UI State Reset**: Faaruqinta kontaroolada foomka iyadoo la isticmaalayo .Clear() ama string.Empty / "".
