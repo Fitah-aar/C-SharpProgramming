@@ -1,7 +1,9 @@
+## Key C# Concepts Covered
+​**Event-Driven Programming:** Writing code that executes strictly in response to user actions (e.g., clicking buttons).
 
-## File Codkan waxa ku qoran
+​**Control Input Access:** Reading data from TextBox controls using the .Text property.
 
-1. sida loo aburo varaible
-2. sida sida la iskugu dhajiyo laba variable adoo adeegsanaya + 
-3. sida loo clear gareeyo label
-4. sida loo soo mojiyo meassage adoo adeegsana MessageBox.show()
+​**Local Variables:** Declaring temporary string variables scoped within specific event handler methods.
+
+​**String Concatenation:** Merging multiple strings using the + operator.
+​UI State Reset: Faaruqinta kontaroolada foomka iyadoo la isticmaalayo .Clear() ama string.Empty / "".
