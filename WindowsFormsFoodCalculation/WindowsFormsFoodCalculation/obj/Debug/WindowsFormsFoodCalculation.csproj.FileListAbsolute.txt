@@ -1,0 +1,11 @@
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.Form1.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\bin\Debug\WindowsFormsFoodCalculation.exe.config
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\bin\Debug\WindowsFormsFoodCalculation.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\bin\Debug\WindowsFormsFoodCalculation.pdb
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.pdb
+C:\Users\AARKA\Downloads\C#\WindowsFormsFoodCalculation\WindowsFormsFoodCalculation\obj\Debug\WindowsFormsFoodCalculation.exe.config
