@@ -1,0 +1,10 @@
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\bin\Debug\WindowsFormsDesigner.exe.config
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\bin\Debug\WindowsFormsDesigner.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\bin\Debug\WindowsFormsDesigner.pdb
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.Form1.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsDesigner\WindowsFormsDesigner\obj\Debug\WindowsFormsDesigner.pdb
