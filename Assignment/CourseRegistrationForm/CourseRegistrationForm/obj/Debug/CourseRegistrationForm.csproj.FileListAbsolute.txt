@@ -1,0 +1,11 @@
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\bin\Debug\CourseRegistrationForm.exe.config
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\bin\Debug\CourseRegistrationForm.exe
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\bin\Debug\CourseRegistrationForm.pdb
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.Form1.resources
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.exe
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.pdb
+C:\Users\AARKA\Downloads\C#\CourseRegistrationForm\CourseRegistrationForm\obj\Debug\CourseRegistrationForm.exe.config
