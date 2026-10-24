@@ -1,0 +1,10 @@
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\bin\Debug\WindowsFormsWeek3Practice.exe.config
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\bin\Debug\WindowsFormsWeek3Practice.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\bin\Debug\WindowsFormsWeek3Practice.pdb
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.csproj.AssemblyReference.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.Form1.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.Properties.Resources.resources
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.csproj.GenerateResource.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.csproj.CoreCompileInputs.cache
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.exe
+C:\Users\AARKA\Downloads\C#\WindowsFormsWeek3Practice\WindowsFormsWeek3Practice\obj\Debug\WindowsFormsWeek3Practice.pdb
